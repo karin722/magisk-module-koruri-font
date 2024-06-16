@@ -12,6 +12,7 @@ Tested on OnePlus 8T (Android 11) / Google Pixel 6 Pro (Android 12).
 
 * Author of Koruri - lindwurm (https://github.com/lindwurm)
 * Any issue or pull request is welcome at [GitHub](https://github.com/AndroPlus-org/magisk-module-koruri-font).
+* [Inter](https://github.com/rsms/inter)
 
 ## License
 
